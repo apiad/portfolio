@@ -516,6 +516,9 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+.center {
+  text-align: center;
+}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
