@@ -55,11 +55,11 @@ jQuery(document).ready(function($) {
     // );
 
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    GitHubCalendar("#github-graph", "apiad");
+    // GitHubCalendar("#github-graph", "apiad");
 
 
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-    GitHubActivity.feed({ username: "apiad", selector: "#ghfeed" });
+    // GitHubActivity.feed({ username: "apiad", selector: "#ghfeed" });
 
 
 });
